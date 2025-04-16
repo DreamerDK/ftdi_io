@@ -1,5 +1,5 @@
 [project]
-name = "ftio"
+name = "ftdi-io"
 authors = [
     { name = "Dreamer", email = "wby951@qq.com" },
 ]
