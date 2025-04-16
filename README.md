@@ -24,7 +24,7 @@ Test with "FT4232HQ" in windows 11, other models may have different usage method
 
 ## Usage
 
-1. Install ftio package by pip: `pip install ftio`
+1. Install ftio package by pip: `pip install ftdi-io`
 2. use it by python:
 ```python
 from ftio import FTIODevice # import
