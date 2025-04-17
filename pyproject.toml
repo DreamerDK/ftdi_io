@@ -1,7 +1,7 @@
 [project]
 name = "ftdi-io"
 authors = [{ name = "Dreamer", email = "wby951@qq.com" }]
-version = "0.1.1"
+version = "0.1.2"
 description = "This is a simple program to control the FTDI chips IO pins."
 license = "MIT"
 keywords = ["ftdi", "ftd2xx", "ftio", "ftdiio"]
