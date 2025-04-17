@@ -4,6 +4,8 @@ This is a simple program to control the FTDI chips IO pins.
 
 To ctrl the FTD IO pins, you need to install the FTD2XX library.
 
+Github: https://github.com/DreamerDK/ftdi_io
+
 It is written in Python 3.
 
 Use [ftd2xx](https://pypi.org/project/ftd2xx/) to communicate with the FTD IO pins.
@@ -15,6 +17,8 @@ Test with "FT4232HQ" in windows 11, other models may have different usage method
 简单的 FTDI  IO控制程序。
 
 用于控制 FTDI 芯片 IO 引脚的简单程序，需要安装 FTD2XX 库。
+
+Github: https://github.com/DreamerDK/ftdi_io
 
 本程序使用 Python 3 编写。
 
